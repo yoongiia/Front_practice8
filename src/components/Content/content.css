@@ -1,0 +1,13 @@
+.content_wrapper{
+    color: rgb(0, 0, 0);
+    background-color: rgb(216, 216, 216);
+    width: 80%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.name_content{
+    font-size: 20px;
+    padding-top: 40px;
+}

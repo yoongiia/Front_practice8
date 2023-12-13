@@ -1,0 +1,21 @@
+.inline{
+    list-style: none;
+    display: flex; 
+    justify-content: center;
+    margin-top: 15px;
+}
+.inline li{
+    padding: 10px 20px;
+}
+.incolumn{
+    color: rgb(255, 255, 255);
+    list-style-type: circle;
+    margin-top: 15px;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.incolumn li{
+    padding-top: 4px;
+}
